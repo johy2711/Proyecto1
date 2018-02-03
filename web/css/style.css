@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+            body{
+                background-color:black; 
+                font-family: sans-serif;
+            }
+            .logo{
+                background-color:white;
+                height: 130px;
+                padding-top: 10px;
+            }
+            
+            .buscacarrito{
+                background-color:white;
+                height: 130px;
+                padding-top: 35px;
+            }
+            
+            .buscador{
+                margin-right: 30px;
+            }
+            #btn-buscar{
+                font-size: 25px;
+            }
+             .carrito{
+                 float: right;
+            }
+            #btn-shopping{
+                font-size: 25px;
+            
+            }
+             .galeria{
+            }
+            
+             .menu{
+                background-color:darkseagreen;
+                text-align: center;
+                padding-top: 10px;
+                position: relative;
+            }
+
+            .menu ul{
+                background-color:chocolate;
+                text-align: center;
+                list-style: none;
+                font-size: 20px;
+                color:black;
+                margin-bottom: 15px; 
+            }
+    
+             ul li a{          
+                 color:black;
+            }
+            
+             ul li a:hover{          
+                 color:aqua;
+                 text-decoration: none;
+            }
+             .productos{
+                background-color:lightgray;
+            }
+            
+            .produind{
+               background-color:white;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                margin-bottom: 15px;
+            }
+            .pronombre{
+                color: cornflowerblue;
+                font-size: 16px;
+            }
+            .precio{
+                color:red;
+                font-size: 14px;
+            }
+
+            .footer{
+                background-color:lightgray;
+                color: darkblue;
+                margin-bottom: 5px;
+            }
+
+  
